@@ -24,22 +24,27 @@ public partial class EditContactPage : ContentPage
             contact = ContactRepository.GetContactById(int.Parse(value));
             if (contact != null)
             {
-                entryName.Text = contact.Name;
-                entryAddress.Text = contact.Address;
-                entryEmail.Text = contact.Email;
-                entryPhone.Text = contact.Phone;
+                ContactCtrl.Name = contact.Name;
+                ContactCtrl.Address = contact.Address;
+                ContactCtrl.Email = contact.Email;
+                ContactCtrl.Phone = contact.Phone;
             }
         }
     }
 
     private void BtnUpdate_OnClicked(object? sender, EventArgs e)
     {
-        contact.Name = entryName.Text;
-        contact.Address = entryAddress.Text;
-        contact.Phone = entryPhone.Text;
-        contact.Email = entryEmail.Text;
+        contact.Name = ContactCtrl.Name;
+        contact.Address = ContactCtrl.Address;
+        contact.Phone = ContactCtrl.Phone;
+        contact.Email = ContactCtrl.Email;
 
         ContactRepository.UpdateContact(contact.ContactId, contact);
         Shell.Current.GoToAsync("..");
+    }
+
+    private void ContactCtrl_OnOnError(object? sender, string e)
+    {
+        DisplayAlert("Error", e, "OK");
     }
 }

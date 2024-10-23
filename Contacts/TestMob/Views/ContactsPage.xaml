@@ -3,22 +3,53 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TestMob.Views.ContactsPage"
              Title="Contacts">
-    <ListView 
-        x:Name ="ListContacts" 
-        BackgroundColor="Transparent"
-        SeparatorColor="Aqua"
-        RowHeight="60"
-        ItemSelected="ListContacts_OnItemSelected"
-        ItemTapped="ListContacts_OnItemTapped"
-        >
-        <ListView.ItemTemplate>
-            <DataTemplate>
-                <TextCell 
-                    Text ="{Binding Name}"
-                    Detail ="{Binding Email}"
-                    ></TextCell>
-            </DataTemplate>
-        </ListView.ItemTemplate>
 
-    </ListView>
+    <Grid 
+        Padding="5"
+        RowDefinitions="50, *, 50"
+          ColumnDefinitions="*">
+        <SearchBar
+            x:Name="SearchBar"
+            Grid.Row="0"
+            Grid.Column="0"
+            Placeholder="Search Contact"
+            TextChanged="InputView_OnTextChanged"
+            ></SearchBar>
+        <ListView 
+            Grid.Row="1"
+            Grid.Column="0"
+            x:Name ="ListContacts" 
+            BackgroundColor="Transparent"
+            SeparatorColor="Aqua"
+            RowHeight="60"
+            ItemSelected="ListContacts_OnItemSelected"
+            ItemTapped="ListContacts_OnItemTapped"
+            >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell 
+                        Text ="{Binding Name}"
+                        Detail ="{Binding Email}">
+                        <TextCell.ContextActions>
+                            <MenuItem 
+                                Text="Delete" 
+                                IsDestructive="True"
+                                Clicked="Delete_OnClicked"
+                                CommandParameter="{Binding .}"></MenuItem>
+                        </TextCell.ContextActions>
+                    </TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView>
+
+        <Button 
+            Grid.Row="2"
+            Grid.Column="0"
+            x:Name="btnAdd" 
+            Text="Add Contact" 
+            Clicked="BtnAdd_OnClicked">
+
+        </Button>
+    </Grid>
 </ContentPage>

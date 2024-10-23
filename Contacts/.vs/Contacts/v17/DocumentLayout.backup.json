@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\views\\contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\models\\contactreposotory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\models\\contactreposotory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\views\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\views\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\views\\addcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\views\\addcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\views\\editcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +27,24 @@
       "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\views\\editcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\models\\contactreposotory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\models\\contactreposotory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\views\\addcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\views\\addcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\views\\controls\\contactcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\views\\controls\\contactcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\views\\controls\\contactcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\views\\controls\\contactcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\views\\addcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\views\\addcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\views\\addcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|solutionrelative:testmob\\views\\addcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE893497-727D-4694-8182-197C0F2F301F}|TestMob\\TestMob.csproj|d:\\projekti\\test\\contacts\\testmob\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -58,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +82,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "ContactControl.xaml.cs",
+              "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\Controls\\ContactControl.xaml.cs",
+              "RelativeDocumentMoniker": "TestMob\\Views\\Controls\\ContactControl.xaml.cs",
+              "ToolTip": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\Controls\\ContactControl.xaml.cs",
+              "RelativeToolTip": "TestMob\\Views\\Controls\\ContactControl.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:17:30.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactControl.xaml",
+              "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\Controls\\ContactControl.xaml",
+              "RelativeDocumentMoniker": "TestMob\\Views\\Controls\\ContactControl.xaml",
+              "ToolTip": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\Controls\\ContactControl.xaml",
+              "RelativeToolTip": "TestMob\\Views\\Controls\\ContactControl.xaml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T13:15:13.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TestMob\\MauiProgram.cs",
+              "ToolTip": "D:\\Projekti\\Test\\Contacts\\TestMob\\MauiProgram.cs",
+              "RelativeToolTip": "TestMob\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:44:25.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ContactReposotory.cs",
               "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\Models\\ContactReposotory.cs",
               "RelativeDocumentMoniker": "TestMob\\Models\\ContactReposotory.cs",
-              "ToolTip": "D:\\Projekti\\Test\\Contacts\\TestMob\\Models\\ContactReposotory.cs",
-              "RelativeToolTip": "TestMob\\Models\\ContactReposotory.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Projekti\\Test\\Contacts\\TestMob\\Models\\ContactReposotory.cs*",
+              "RelativeToolTip": "TestMob\\Models\\ContactReposotory.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwGIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T07:42:46.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Contact.cs",
               "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "TestMob\\Models\\Contact.cs",
@@ -91,33 +139,32 @@
               "RelativeToolTip": "TestMob\\Models\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T07:33:51.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T07:33:51.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EditContactPage.xaml.cs",
               "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\EditContactPage.xaml.cs",
               "RelativeDocumentMoniker": "TestMob\\Views\\EditContactPage.xaml.cs",
               "ToolTip": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\EditContactPage.xaml.cs",
               "RelativeToolTip": "TestMob\\Views\\EditContactPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T10:14:18.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T10:14:18.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "AddContactPage.xaml.cs",
               "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\AddContactPage.xaml.cs",
               "RelativeDocumentMoniker": "TestMob\\Views\\AddContactPage.xaml.cs",
               "ToolTip": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\AddContactPage.xaml.cs",
               "RelativeToolTip": "TestMob\\Views\\AddContactPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T10:13:24.259Z"
+              "WhenOpened": "2024-10-21T10:13:24.259Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,14 +174,14 @@
               "RelativeDocumentMoniker": "TestMob\\Views\\ContactsPage.xaml.cs",
               "ToolTip": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\ContactsPage.xaml.cs*",
               "RelativeToolTip": "TestMob\\Views\\ContactsPage.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T09:52:18.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\AppShell.xaml",
               "RelativeDocumentMoniker": "TestMob\\AppShell.xaml",
@@ -146,45 +193,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "AddContactPage.xaml",
               "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\AddContactPage.xaml",
               "RelativeDocumentMoniker": "TestMob\\Views\\AddContactPage.xaml",
               "ToolTip": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\AddContactPage.xaml",
               "RelativeToolTip": "TestMob\\Views\\AddContactPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-21T09:52:02.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EditContactPage.xaml",
               "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\EditContactPage.xaml",
               "RelativeDocumentMoniker": "TestMob\\Views\\EditContactPage.xaml",
               "ToolTip": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\EditContactPage.xaml",
               "RelativeToolTip": "TestMob\\Views\\EditContactPage.xaml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-21T09:51:20.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T09:51:20.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ContactsPage.xaml",
               "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\ContactsPage.xaml",
               "RelativeDocumentMoniker": "TestMob\\Views\\ContactsPage.xaml",
-              "ToolTip": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\ContactsPage.xaml",
-              "RelativeToolTip": "TestMob\\Views\\ContactsPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "ToolTip": "D:\\Projekti\\Test\\Contacts\\TestMob\\Views\\ContactsPage.xaml*",
+              "RelativeToolTip": "TestMob\\Views\\ContactsPage.xaml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-21T09:50:27.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "TestMob\\AppShell.xaml.cs",
@@ -196,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\App.xaml",
               "RelativeDocumentMoniker": "TestMob\\App.xaml",
@@ -208,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\Projekti\\Test\\Contacts\\TestMob\\MainPage.xaml",
               "RelativeDocumentMoniker": "TestMob\\MainPage.xaml",
